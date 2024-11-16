@@ -1,0 +1,12 @@
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Domain\bin\Debug\net7.0\CleanArchitectureTask.Domain.deps.json
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Domain\bin\Debug\net7.0\CleanArchitectureTask.Domain.dll
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Domain\bin\Debug\net7.0\CleanArchitectureTask.Domain.pdb
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\CleanArchitectureTask.Domain.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\CleanArchitectureTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\CleanArchitectureTask.Domain.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\CleanArchitectureTask.Domain.AssemblyInfo.cs
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\CleanArchitectureTask.Domain.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\CleanArchitectureTask.Domain.dll
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\refint\CleanArchitectureTask.Domain.dll
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\CleanArchitectureTask.Domain.pdb
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\ref\CleanArchitectureTask.Domain.dll

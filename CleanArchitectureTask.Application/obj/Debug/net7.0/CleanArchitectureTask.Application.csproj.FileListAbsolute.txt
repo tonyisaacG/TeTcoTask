@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Application\obj\Debug\net7.0\CleanArchitectureTask.Application.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Application\obj\Debug\net7.0\CleanArchitectureTask.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Application\obj\Debug\net7.0\CleanArchitectureTask.Application.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Application\obj\Debug\net7.0\CleanArchitectureTask.Application.AssemblyInfo.cs
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Application\obj\Debug\net7.0\CleanArchitectureTask.Application.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Application\bin\Debug\net7.0\CleanArchitectureTask.Application.deps.json
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Application\bin\Debug\net7.0\CleanArchitectureTask.Application.dll
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Application\bin\Debug\net7.0\CleanArchitectureTask.Application.pdb
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Application\bin\Debug\net7.0\CleanArchitectureTask.Domain.dll
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Application\bin\Debug\net7.0\CleanArchitectureTask.Domain.pdb
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Application\obj\Debug\net7.0\CleanArc.BD00EAF6.Up2Date
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Application\obj\Debug\net7.0\CleanArchitectureTask.Application.dll
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Application\obj\Debug\net7.0\refint\CleanArchitectureTask.Application.dll
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Application\obj\Debug\net7.0\CleanArchitectureTask.Application.pdb
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Application\obj\Debug\net7.0\ref\CleanArchitectureTask.Application.dll
