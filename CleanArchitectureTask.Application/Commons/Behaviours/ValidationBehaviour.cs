@@ -20,8 +20,8 @@ namespace CleanArchitectureTask.Application.Commons.Behaviours
                 .Select(obj => obj.Validate(context))
                 .SelectMany(obj => obj.Errors)
                 .Where(obj => obj != null)
-                .Select(obj => obj.ErrorMessage)
-                .Distinct().ToArray();
+                .DistinctBy(obj => obj.PropertyName)
+                .Select(obj => new ValidationResults { PropertyName = obj.PropertyName,ErrorMessage = obj.ErrorMessage });
             if( errors.Any() ) { throw new BadRequestException(errors); }
             return await next();
         }

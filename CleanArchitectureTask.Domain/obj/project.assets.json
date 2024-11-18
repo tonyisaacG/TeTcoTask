@@ -524,11 +524,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anton\\source\\repos\\CleanArchitectureTask.API\\CleanArchitectureTask.Domain\\CleanArchitectureTask.Domain.csproj",
+      "projectUniqueName": "d:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Domain\\CleanArchitectureTask.Domain.csproj",
       "projectName": "CleanArchitectureTask.Domain",
-      "projectPath": "C:\\Users\\anton\\source\\repos\\CleanArchitectureTask.API\\CleanArchitectureTask.Domain\\CleanArchitectureTask.Domain.csproj",
+      "projectPath": "d:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Domain\\CleanArchitectureTask.Domain.csproj",
       "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anton\\source\\repos\\CleanArchitectureTask.API\\CleanArchitectureTask.Domain\\obj\\",
+      "outputPath": "d:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

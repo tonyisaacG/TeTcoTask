@@ -1,36 +1,51 @@
 ﻿using CleanArchitectureTask.Application.Interfaces.Services;
-using MimeKit.Text;
-using MimeKit;
+using CleanArchitectureTask.Infrastructure.Common;
 using MailKit.Net.Smtp;
+using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
+using MimeKit;
+using MimeKit.Text;
 
 namespace CleanArchitectureTask.Infrastructure.Services
 {
     public class MailService : IMailService
     {
-        public void SendMail(string body,string To,string title = null)
-        {
+        private readonly ILogger<MailService> _logger;
+        private readonly StmpSetting _stmpSetting;
 
-            MimeMessage message = new MimeMessage();
-            message.From.Add(new MailboxAddress(title,"CleanArchCQRs@gmail.com"));
-            message.To.Add(new MailboxAddress(title ?? "Clean Architecture",To));
+        public MailService(ILogger<MailService> logger,IOptions<StmpSetting> StmpSettingConfigure)
+        {
+            _logger = logger;
+            _stmpSetting = StmpSettingConfigure.Value;
+        }
+   
+
+        public void SendMail(string body,string to,string title = null)
+        {
+            string smtpHost = _stmpSetting.Host;
+            int smtpPort = _stmpSetting.Port;
+            string smtpUser = _stmpSetting.Username;
+            string smtpPassword = _stmpSetting.Password;
+            string defaultFromEmail = _stmpSetting.FromEmail;
+
+            var message = new MimeMessage();
+            message.From.Add(new MailboxAddress(title ?? "Clean Architecture",defaultFromEmail));
+            message.To.Add(new MailboxAddress(title ?? "Recipient",to));
             message.Subject = "Clean Architecture Test Notification";
             message.Body = new TextPart(TextFormat.Html) { Text = body };
-            SmtpClient client = new SmtpClient();
+
             try
             {
-                client.Connect("smtp.gmail.com",465,true);
-                client.Authenticate("CleanArchCQRs@gmail.com","peampqqpvsdybrhq");
-                var s = client.Send(message);
+                using var client = new SmtpClient();
+                client.Connect(smtpHost,smtpPort,true);
+                client.Authenticate(smtpUser,smtpPassword);
+                client.Send(message);
+                _logger.LogInformation("Email sent successfully to {Recipient}",to);
             }
             catch( Exception ex )
             {
-                Console.WriteLine(ex.Message);
-                throw ex;
-            }
-            finally
-            {
-                client.Disconnect(true);
-                client.Dispose();
+                _logger.LogError(ex,"Failed to send email to {Recipient}",to);
+                throw;
             }
         }
     }

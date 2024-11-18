@@ -1,5 +1,4 @@
-﻿using CleanArchitectureTask.Application.Commons.Dtos;
-using CleanArchitectureTask.Application.Interfaces.Repositories;
+﻿using CleanArchitectureTask.Application.Interfaces.Repositories;
 using CleanArchitectureTask.Application.UseCases.ParentFeatures.Queries.GetPaginationParent;
 using CleanArchitectureTask.Domain.Entities;
 using CleanArchitectureTask.Infrastructure.Persistence;
@@ -11,6 +10,13 @@ namespace CleanArchitectureTask.Infrastructure.Repositories
     {
         public ParentRepository(ApplicationDbContext context) : base(context)
         {
+        }
+
+        public async Task<Parent> FindParentByNationalIdOrPhoneNum(string nationalId,string phoneNum)
+        {
+            var parent = await _context.Parents
+                 .Where(obj => obj.NationalId.Trim() == nationalId.Trim() || obj.PhoneNumber.Trim() == phoneNum.Trim()).FirstOrDefaultAsync();
+            return parent;
         }
 
         public async Task<(IEnumerable<Parent> Items, int TotalItem)> GetPaginatedParent(GetPaginatedParentRequest parameter,CancellationToken cancellationToken)

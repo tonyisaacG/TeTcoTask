@@ -2,25 +2,37 @@
 using CleanArchitectureTask.Domain.Commons;
 using CleanArchitectureTask.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
 
 namespace CleanArchitectureTask.Infrastructure.Repositories
 {
-    public class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity :class, new()
+    public class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : class, new()
     {
         protected readonly ApplicationDbContext _context;
         private readonly DbSet<TEntity> _dbSet;
-        public BaseRepository(ApplicationDbContext context) { _context = context; }
-        public async Task<IEnumerable<TEntity>> GetAll(CancellationToken cancellationToken)
+        public BaseRepository(ApplicationDbContext context) { _context = context; _dbSet = _context.Set<TEntity>(); }
+        public async Task<IEnumerable<TEntity>> GetAll(CancellationToken cancellationToken = default,params string[]? includes)
         {
-            return await _dbSet.ToListAsync(cancellationToken);
-        }
-        public async Task<TEntity> GetById<Tkey>(Tkey id,CancellationToken cancellationToken)
-        {
-            if( typeof(TEntity).IsAssignableFrom(typeof(BaseEntityWithKey<>)) )
+            var entity = _dbSet.AsQueryable();
+            if( includes.Count() > 0 )
             {
-                return await _dbSet.FirstOrDefaultAsync(obj => (obj as BaseEntityWithKey<Tkey>).Id.Equals(id),cancellationToken);
+                entity = includes.Aggregate(entity,
+                          (current,include) => current.Include(include));
             }
-            throw new Exception("Key For This Entity Is Complex");
+            return await entity.ToListAsync(cancellationToken);
+        }
+        public async Task<TEntity> GetById<Tkey>(Tkey id,CancellationToken cancellationToken = default,params string[]? includes)
+        {
+            var entity = _dbSet.AsQueryable();
+
+
+            if( includes.Count() > 0 )
+            {
+                entity = includes.Aggregate(entity,
+                          (current,include) => current.Include(include));
+            }
+
+            return await entity.FirstOrDefaultAsync(obj => ( obj as BaseEntityWithKey<Tkey> ).Id.Equals(id),cancellationToken);
         }
         public async Task Create(TEntity entity)
         {
@@ -34,7 +46,6 @@ namespace CleanArchitectureTask.Infrastructure.Repositories
         {
             _dbSet.Update(entity);
         }
-
 
     }
 }

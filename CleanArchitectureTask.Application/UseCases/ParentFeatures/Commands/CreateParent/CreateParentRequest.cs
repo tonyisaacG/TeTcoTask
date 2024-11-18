@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using CleanArchitectureTask.Application.UseCases.ParentFeatures.Commands.Commons;
+using MediatR;
 
 namespace CleanArchitectureTask.Application.UseCases.ParentFeatures.Commands.CreateParent
 {
@@ -8,8 +9,9 @@ namespace CleanArchitectureTask.Application.UseCases.ParentFeatures.Commands.Cre
             string NameEn,
             string NationalId,
             string Email,
-            string PhoneNumber
-        ) : IRequest<CreateParentResponse>
+            string PhoneNumber,
+            decimal WalletBalance
+        ) : IRequest<ParentResponseCommand>
     {
     }
 }

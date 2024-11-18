@@ -10,7 +10,7 @@ namespace CleanArchitectureTask.Domain.Configuration
         {
             builder.HasOne(p => p.Wallet)
                    .WithOne(w => w.Parent)
-                   .HasForeignKey<Wallet>(w => w.OwnerId)
+                   .HasForeignKey<ParentWallet>(w => w.OwnerId)
                    .OnDelete(DeleteBehavior.Cascade);
         }
     }

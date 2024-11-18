@@ -10,3 +10,17 @@ C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Doma
 C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\refint\CleanArchitectureTask.Domain.dll
 C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\CleanArchitectureTask.Domain.pdb
 C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\ref\CleanArchitectureTask.Domain.dll
+C:\Users\anton\source\repos\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\CleanArchitectureTask.Domain.sourcelink.json
+D:\ME\Projects\CleanArchitectureTask.API\CleanArchitectureTask.Domain\bin\Debug\net7.0\CleanArchitectureTask.Domain.deps.json
+D:\ME\Projects\CleanArchitectureTask.API\CleanArchitectureTask.Domain\bin\Debug\net7.0\CleanArchitectureTask.Domain.dll
+D:\ME\Projects\CleanArchitectureTask.API\CleanArchitectureTask.Domain\bin\Debug\net7.0\CleanArchitectureTask.Domain.pdb
+D:\ME\Projects\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\CleanArchitectureTask.Domain.csproj.AssemblyReference.cache
+D:\ME\Projects\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\CleanArchitectureTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ME\Projects\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\CleanArchitectureTask.Domain.AssemblyInfoInputs.cache
+D:\ME\Projects\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\CleanArchitectureTask.Domain.AssemblyInfo.cs
+D:\ME\Projects\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\CleanArchitectureTask.Domain.csproj.CoreCompileInputs.cache
+D:\ME\Projects\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\CleanArchitectureTask.Domain.sourcelink.json
+D:\ME\Projects\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\CleanArchitectureTask.Domain.dll
+D:\ME\Projects\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\refint\CleanArchitectureTask.Domain.dll
+D:\ME\Projects\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\CleanArchitectureTask.Domain.pdb
+D:\ME\Projects\CleanArchitectureTask.API\CleanArchitectureTask.Domain\obj\Debug\net7.0\ref\CleanArchitectureTask.Domain.dll

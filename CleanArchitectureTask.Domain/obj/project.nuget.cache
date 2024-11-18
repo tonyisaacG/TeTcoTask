@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+UJikIzxOoM=",
+  "dgSpecHash": "MAutpZ+cUUs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\anton\\source\\repos\\CleanArchitectureTask.API\\CleanArchitectureTask.Domain\\CleanArchitectureTask.Domain.csproj",
+  "projectFilePath": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Domain\\CleanArchitectureTask.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anton\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.20\\microsoft.entityframeworkcore.7.0.20.nupkg.sha512",
     "C:\\Users\\anton\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.20\\microsoft.entityframeworkcore.abstractions.7.0.20.nupkg.sha512",

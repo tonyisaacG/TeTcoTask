@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "6c4FbFol6rp9LLu8Gi+lP+s6NeXBE5d9KUMzT6Ahppc=",
+  "Hash": "akE5EQxESNa0z9jQTbBBt9n3j3xfgAtG4kpHKrRfFDI=",
   "Source": "CleanArchitectureTask.API",
   "BasePath": "_content/CleanArchitectureTask.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CleanArchitectureTask.API\\wwwroot",
+      "Source": "CleanArchitectureTask.API",
+      "ContentRoot": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.API\\wwwroot\\",
+      "BasePath": "_content/CleanArchitectureTask.API",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

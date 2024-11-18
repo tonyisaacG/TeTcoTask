@@ -18,10 +18,4 @@
     <ProjectReference Include="..\CleanArchitectureTask.Domain\CleanArchitectureTask.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="UseCases\ParentFeatures\Commands\DeleteParent\" />
-    <Folder Include="UseCases\ParentFeatures\Commands\UpdateParent\" />
-    <Folder Include="UseCases\ParentFeatures\Queries\GetByIdParent\" />
-  </ItemGroup>
-
 </Project>

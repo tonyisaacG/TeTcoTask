@@ -16,6 +16,7 @@ namespace CleanArchitectureTask.Application.UseCases.ParentFeatures.Commands.Cre
             RuleFor(x => x.PhoneNumber).NotEmpty().Length(11)
                 .Matches("^(011|012|015|010)\\d{8}$")
                 .WithMessage("Phone number must be 11 digits and start with 011, 012, 015, or 010.");
+            RuleFor(x => x.WalletBalance).GreaterThanOrEqualTo(0);
         }
     }
 }

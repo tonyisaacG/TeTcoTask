@@ -1,10 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\anton\\source\\repos\\CleanArchitectureTask.API\\",
+  "WorkspaceRootPath": "D:\\ME\\Projects\\CleanArchitectureTask.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|c:\\users\\anton\\source\\repos\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\parentfeatures\\commands\\createparent\\createparentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\studentfeatures\\commands\\createstudent\\createstudentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|solutionrelative:cleanarchitecturetask.application\\usecases\\studentfeatures\\commands\\createstudent\\createstudentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\parentfeatures\\commands\\createparent\\createparentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|solutionrelative:cleanarchitecturetask.application\\usecases\\parentfeatures\\commands\\createparent\\createparentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\parentfeatures\\commands\\createparent\\createparenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|solutionrelative:cleanarchitecturetask.application\\usecases\\parentfeatures\\commands\\createparent\\createparenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\studentfeatures\\commands\\createstudent\\createstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|solutionrelative:cleanarchitecturetask.application\\usecases\\studentfeatures\\commands\\createstudent\\createstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\studentfeatures\\commands\\commons\\studentprofilemappercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|solutionrelative:cleanarchitecturetask.application\\usecases\\studentfeatures\\commands\\commons\\studentprofilemappercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\studentfeatures\\commands\\createstudent\\createstudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|solutionrelative:cleanarchitecturetask.application\\usecases\\studentfeatures\\commands\\createstudent\\createstudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C278B6-1BEE-4D94-843D-D0F322174D4C}|CleanArchitectureTask.API\\CleanArchitectureTask.API.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C278B6-1BEE-4D94-843D-D0F322174D4C}|CleanArchitectureTask.API\\CleanArchitectureTask.API.csproj|solutionrelative:cleanarchitecturetask.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\parentfeatures\\commands\\createparent\\createparentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|solutionrelative:cleanarchitecturetask.application\\usecases\\parentfeatures\\commands\\createparent\\createparentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C278B6-1BEE-4D94-843D-D0F322174D4C}|CleanArchitectureTask.API\\CleanArchitectureTask.API.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.api\\controllers\\parentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C278B6-1BEE-4D94-843D-D0F322174D4C}|CleanArchitectureTask.API\\CleanArchitectureTask.API.csproj|solutionrelative:cleanarchitecturetask.api\\controllers\\parentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\studentfeatures\\queries\\commons\\studentprofilemapperquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|solutionrelative:cleanarchitecturetask.application\\usecases\\studentfeatures\\queries\\commons\\studentprofilemapperquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\parentfeatures\\queries\\commons\\parentprofilemapperquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|solutionrelative:cleanarchitecturetask.application\\usecases\\parentfeatures\\queries\\commons\\parentprofilemapperquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\studentfeatures\\queries\\getstudentwithwallet\\getstudentwithwallethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|solutionrelative:cleanarchitecturetask.application\\usecases\\studentfeatures\\queries\\getstudentwithwallet\\getstudentwithwallethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\studentfeatures\\queries\\getstudentwithwallet\\getstudentwithwalletresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|solutionrelative:cleanarchitecturetask.application\\usecases\\studentfeatures\\queries\\getstudentwithwallet\\getstudentwithwalletresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\studentfeatures\\queries\\getstudentwithwallet\\getstudentwithwalletrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|solutionrelative:cleanarchitecturetask.application\\usecases\\studentfeatures\\queries\\getstudentwithwallet\\getstudentwithwalletrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\parentfeatures\\queries\\getparentwithwallet\\getparentwithwalletvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|solutionrelative:cleanarchitecturetask.application\\usecases\\parentfeatures\\queries\\getparentwithwallet\\getparentwithwalletvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\parentfeatures\\queries\\getparentwithwallet\\getparentwithwalletresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|solutionrelative:cleanarchitecturetask.application\\usecases\\parentfeatures\\queries\\getparentwithwallet\\getparentwithwalletresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\parentfeatures\\queries\\getparentwithwallet\\getparentwithwalletrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|solutionrelative:cleanarchitecturetask.application\\usecases\\parentfeatures\\queries\\getparentwithwallet\\getparentwithwalletrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\parentfeatures\\queries\\getparentwithwallet\\getparentwithwallethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|solutionrelative:cleanarchitecturetask.application\\usecases\\parentfeatures\\queries\\getparentwithwallet\\getparentwithwallethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\studentfeatures\\queries\\getstudentwithwallet\\getstudentwithwalletvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|solutionrelative:cleanarchitecturetask.application\\usecases\\studentfeatures\\queries\\getstudentwithwallet\\getstudentwithwalletvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C278B6-1BEE-4D94-843D-D0F322174D4C}|CleanArchitectureTask.API\\CleanArchitectureTask.API.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.api\\extensions\\errorhandlerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C278B6-1BEE-4D94-843D-D0F322174D4C}|CleanArchitectureTask.API\\CleanArchitectureTask.API.csproj|solutionrelative:cleanarchitecturetask.api\\extensions\\errorhandlerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|d:\\me\\projects\\cleanarchitecturetask.api\\cleanarchitecturetask.application\\usecases\\parentfeatures\\queries\\commons\\parentresponsequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EFE0-2866-46BD-B508-5780E5FD8B85}|CleanArchitectureTask.Application\\CleanArchitectureTask.Application.csproj|solutionrelative:cleanarchitecturetask.application\\usecases\\parentfeatures\\queries\\commons\\parentresponsequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +99,248 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateParentValidator.cs",
-              "DocumentMoniker": "C:\\Users\\anton\\source\\repos\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentValidator.cs",
-              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentValidator.cs",
-              "ToolTip": "C:\\Users\\anton\\source\\repos\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentValidator.cs",
-              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentValidator.cs",
+              "Title": "CreateStudentValidator.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\CreateStudent\\CreateStudentValidator.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\CreateStudent\\CreateStudentValidator.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\CreateStudent\\CreateStudentValidator.cs*",
+              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\CreateStudent\\CreateStudentValidator.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T17:20:58.001Z",
+              "WhenOpened": "2024-11-18T19:18:57.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateParentValidator.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentValidator.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentValidator.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentValidator.cs*",
+              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentValidator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:18:04.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentProfileMapperCommand.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\Commons\\StudentProfileMapperCommand.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\Commons\\StudentProfileMapperCommand.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\Commons\\StudentProfileMapperCommand.cs",
+              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\Commons\\StudentProfileMapperCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:15:34.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateStudentRequest.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\CreateStudent\\CreateStudentRequest.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\CreateStudent\\CreateStudentRequest.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\CreateStudent\\CreateStudentRequest.cs",
+              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\CreateStudent\\CreateStudentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:15:14.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateStudentHandler.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\CreateStudent\\CreateStudentHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\CreateStudent\\CreateStudentHandler.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\CreateStudent\\CreateStudentHandler.cs",
+              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\CreateStudent\\CreateStudentHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCIAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:59:47.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateParentHandler.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentHandler.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentHandler.cs",
+              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:59:47.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.API\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CleanArchitectureTask.API\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:59:47.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateParentRequest.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentRequest.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentRequest.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentRequest.cs",
+              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:14:48.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentProfileMapperQuery.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\Commons\\StudentProfileMapperQuery.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\Commons\\StudentProfileMapperQuery.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\Commons\\StudentProfileMapperQuery.cs",
+              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\Commons\\StudentProfileMapperQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:12:33.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetStudentWithWalletHandler.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletHandler.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletHandler.cs",
+              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:05:21.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParentController.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.API\\Controllers\\ParentController.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.API\\Controllers\\ParentController.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.API\\Controllers\\ParentController.cs",
+              "RelativeToolTip": "CleanArchitectureTask.API\\Controllers\\ParentController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:57:51.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ParentProfileMapperQuery.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\Commons\\ParentProfileMapperQuery.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\Commons\\ParentProfileMapperQuery.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\Commons\\ParentProfileMapperQuery.cs",
+              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\Commons\\ParentProfileMapperQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:55:35.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetStudentWithWalletResponse.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletResponse.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletResponse.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletResponse.cs",
+              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:06:08.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetStudentWithWalletRequest.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletRequest.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletRequest.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletRequest.cs",
+              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:05:59.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetParentWithWalletValidator.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletValidator.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletValidator.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletValidator.cs",
+              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletValidator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:51:36.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetParentWithWalletResponse.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletResponse.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletResponse.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletResponse.cs",
+              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:52:47.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetParentWithWalletRequest.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletRequest.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletRequest.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletRequest.cs",
+              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:52:04.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetParentWithWalletHandler.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletHandler.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletHandler.cs",
+              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:50:32.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetStudentWithWalletValidator.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletValidator.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletValidator.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletValidator.cs",
+              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:06:22.697Z",
               "EditorCaption": ""
             },
             {
@@ -44,6 +358,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorHandlerExtensions.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.API\\Extensions\\ErrorHandlerExtensions.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.API\\Extensions\\ErrorHandlerExtensions.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.API\\Extensions\\ErrorHandlerExtensions.cs",
+              "RelativeToolTip": "CleanArchitectureTask.API\\Extensions\\ErrorHandlerExtensions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAtwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:59:47.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ParentResponseQuery.cs",
+              "DocumentMoniker": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\Commons\\ParentResponseQuery.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\Commons\\ParentResponseQuery.cs",
+              "ToolTip": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\Commons\\ParentResponseQuery.cs",
+              "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\Commons\\ParentResponseQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:54:08.969Z",
+              "EditorCaption": ""
             }
           ]
         }

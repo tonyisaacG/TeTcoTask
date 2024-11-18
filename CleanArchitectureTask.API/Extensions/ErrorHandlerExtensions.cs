@@ -24,11 +24,19 @@ namespace CleanArchitectureTask.API.Extensions
                         NotFoundException => (int)HttpStatusCode.NotFound,
                         _ => (int)HttpStatusCode.InternalServerError
                     };
-                    var errorResponse = new
+                    var errorResponse = new Application.Commons.Dtos.Result<object>()
                     {
-                        statusCode = context.Response.StatusCode,
-                        message = contextFeature.Error.GetBaseException().Message
+                        Code = context.Response.StatusCode,
+                        Succeeded = false
                     };
+                    var validationError = ( contextFeature.Error as BaseRequestException );
+                    try
+                    {
+                        if( validationError != null && validationError.ValidationResults != null && validationError.ValidationResults.Count() > 0 )
+                        { errorResponse.ValidationErrors = validationError.ValidationResults.ToList(); }
+                        else
+                        { errorResponse.Messages.Add(contextFeature.Error.GetBaseException().Message); }
+                    } catch( Exception ex ) { errorResponse.Messages = new List<string> { "Internal Server Error." }; }
                     await context.Response.WriteAsync(JsonSerializer.Serialize(errorResponse));
                 });
             });

@@ -1,6 +1,6 @@
 ﻿namespace CleanArchitectureTask.Domain.Commons
 {
-    public abstract class BaseEntityWithKey<TKey>:IBaseEntity
+    public abstract class BaseEntityWithKey<TKey> : IBaseEntity
     {
         public TKey Id { get; set; }
         public DateTime CreatedAt { get; set; }

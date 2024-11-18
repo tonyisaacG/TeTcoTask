@@ -9,6 +9,6 @@ namespace CleanArchitectureTask.Domain.Entities
         public string NationalId { get; set; }
         public string Email { get; set; }
         public string PhoneNumber { get; set; }
-        public Wallet Wallet { get; set; }
+        public ParentWallet Wallet { get; set; }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anton\\source\\repos\\CleanArchitectureTask.API\\CleanArchitectureTask.Domain\\CleanArchitectureTask.Domain.csproj": {}
+    "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Domain\\CleanArchitectureTask.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anton\\source\\repos\\CleanArchitectureTask.API\\CleanArchitectureTask.Domain\\CleanArchitectureTask.Domain.csproj": {
+    "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Domain\\CleanArchitectureTask.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anton\\source\\repos\\CleanArchitectureTask.API\\CleanArchitectureTask.Domain\\CleanArchitectureTask.Domain.csproj",
+        "projectUniqueName": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Domain\\CleanArchitectureTask.Domain.csproj",
         "projectName": "CleanArchitectureTask.Domain",
-        "projectPath": "C:\\Users\\anton\\source\\repos\\CleanArchitectureTask.API\\CleanArchitectureTask.Domain\\CleanArchitectureTask.Domain.csproj",
+        "projectPath": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Domain\\CleanArchitectureTask.Domain.csproj",
         "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anton\\source\\repos\\CleanArchitectureTask.API\\CleanArchitectureTask.Domain\\obj\\",
+        "outputPath": "D:\\ME\\Projects\\CleanArchitectureTask.API\\CleanArchitectureTask.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

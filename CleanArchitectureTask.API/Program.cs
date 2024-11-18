@@ -2,6 +2,7 @@
 using CleanArchitectureTask.API.Extensions;
 using CleanArchitectureTask.Application;
 using CleanArchitectureTask.Infrastructure;
+using CleanArchitectureTask.Infrastructure.Common;
 
 namespace CleanArchitectureTask.API
 {
@@ -20,6 +21,7 @@ namespace CleanArchitectureTask.API
             builder.Services.ConfigureApiBehavior();
             builder.Services.ConfigureCorsPolicy();
 
+            builder.Services.Configure<StmpSetting>(builder.Configuration.GetSection(Settings.Smtp));
 
 
 
@@ -28,8 +30,8 @@ namespace CleanArchitectureTask.API
 
             app.UseSwagger();
             app.UseSwaggerUI();
-            app.UseHttpsRedirection();
             app.UseErrorHandler();
+            app.UseCors();
             app.MapControllers();
             app.Run();
         }
