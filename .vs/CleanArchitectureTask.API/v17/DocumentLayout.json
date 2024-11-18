@@ -94,8 +94,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 197,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -119,8 +135,7 @@
               "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:18:04.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T19:18:04.613Z"
             },
             {
               "$type": "Document",
@@ -132,8 +147,7 @@
               "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\Commons\\StudentProfileMapperCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:15:34.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T19:15:34.234Z"
             },
             {
               "$type": "Document",
@@ -145,8 +159,7 @@
               "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\CreateStudent\\CreateStudentRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:15:14.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T19:15:14.473Z"
             },
             {
               "$type": "Document",
@@ -158,8 +171,7 @@
               "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Commands\\CreateStudent\\CreateStudentHandler.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwCIAAACGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T18:59:47.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T18:59:47.434Z"
             },
             {
               "$type": "Document",
@@ -171,8 +183,7 @@
               "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentHandler.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T18:59:47.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T18:59:47.334Z"
             },
             {
               "$type": "Document",
@@ -184,8 +195,7 @@
               "RelativeToolTip": "CleanArchitectureTask.API\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T18:59:47.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T18:59:47.394Z"
             },
             {
               "$type": "Document",
@@ -197,8 +207,7 @@
               "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Commands\\CreateParent\\CreateParentRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:14:48.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T19:14:48.324Z"
             },
             {
               "$type": "Document",
@@ -210,8 +219,7 @@
               "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\Commons\\StudentProfileMapperQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:12:33.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T19:12:33.068Z"
             },
             {
               "$type": "Document",
@@ -223,8 +231,7 @@
               "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:05:21.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T19:05:21.038Z"
             },
             {
               "$type": "Document",
@@ -236,8 +243,7 @@
               "RelativeToolTip": "CleanArchitectureTask.API\\Controllers\\ParentController.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T18:57:51.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T18:57:51.497Z"
             },
             {
               "$type": "Document",
@@ -249,8 +255,7 @@
               "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\Commons\\ParentProfileMapperQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T18:55:35.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T18:55:35.808Z"
             },
             {
               "$type": "Document",
@@ -262,8 +267,7 @@
               "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:06:08.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T19:06:08.024Z"
             },
             {
               "$type": "Document",
@@ -275,8 +279,7 @@
               "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:05:59.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T19:05:59.01Z"
             },
             {
               "$type": "Document",
@@ -288,8 +291,7 @@
               "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletValidator.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T18:51:36.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T18:51:36.558Z"
             },
             {
               "$type": "Document",
@@ -301,8 +303,7 @@
               "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T18:52:47.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T18:52:47.698Z"
             },
             {
               "$type": "Document",
@@ -314,8 +315,7 @@
               "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T18:52:04.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T18:52:04.472Z"
             },
             {
               "$type": "Document",
@@ -327,8 +327,7 @@
               "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\GetParentWithWallet\\GetParentWithWalletHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T18:50:32.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T18:50:32.145Z"
             },
             {
               "$type": "Document",
@@ -340,24 +339,7 @@
               "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\StudentFeatures\\Queries\\GetStudentWithWallet\\GetStudentWithWalletValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:06:22.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "WhenOpened": "2024-11-18T19:06:22.697Z"
             },
             {
               "$type": "Document",
@@ -369,8 +351,7 @@
               "RelativeToolTip": "CleanArchitectureTask.API\\Extensions\\ErrorHandlerExtensions.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAtwB0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T18:59:47.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T18:59:47.373Z"
             },
             {
               "$type": "Document",
@@ -382,8 +363,7 @@
               "RelativeToolTip": "CleanArchitectureTask.Application\\UseCases\\ParentFeatures\\Queries\\Commons\\ParentResponseQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T18:54:08.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T18:54:08.969Z"
             }
           ]
         }
